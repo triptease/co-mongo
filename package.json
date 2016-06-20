@@ -1,6 +1,6 @@
 {
   "name": "co-mongo",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "Thom Seddon",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thomseddon/co-mongo"
+    "url": "https://github.com/triptease/co-mongo"
   },
   "license": "MIT",
   "dependencies": {
