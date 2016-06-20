@@ -13,7 +13,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "mongodb": "2.0.49"
+    "mongodb": "~2.1.18"
   },
   "devDependencies": {
     "mocha": "~1.17.1",
