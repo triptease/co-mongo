@@ -97,4 +97,4 @@ Db.get = function () {
   };
 };
 
-//Db.ObjectID = mongo.ObjectID;
+Db.ObjectID = mongo.ObjectID;
