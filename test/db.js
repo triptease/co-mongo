@@ -82,7 +82,7 @@ describe('db', function () {
     it('should return all collections', function (done) {
       co(function *() {
         var collections = yield db.collections();
-        collections.should.have.lengthOf(1);
+        collections.should.have.lengthOf(2); //test and indexes
         collections.forEach(function (collection) {
           collection.should.be.instanceOf(comongo.Collection);
         });
